@@ -1,3 +1,2 @@
 This is a demo file as I am learning git.
-Hello from Aritra.
 Thank you.
