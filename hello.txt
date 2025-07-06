@@ -1,11 +1,12 @@
 This is a demo file as I am learning git.
 Thank you.
 I am changing this again.
-<<<<<<< HEAD
-=======
 
 This is me again. Today is 5-7-2025
 
 
 I am creating a new branch here for testing.
->>>>>>> 2ac768ce0793b17368c8dff785ca0f95cf034060
+
+
+Another change for testig only. not for master.
+
